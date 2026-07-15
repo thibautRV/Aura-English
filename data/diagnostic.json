@@ -1,0 +1,42 @@
+{
+  "listening": {
+    "audio_path": "assets/audio/diagnostic.mp3",
+    "question": "Listen to the recording of a film director talking to his crew. What is the director's main instruction?",
+    "options": [
+      "A) To change the actors' costumes immediately.",
+      "B) To adjust the camera angle for a low-angle shot to show power.",
+      "C) To cancel the shoot because of bad weather.",
+      "D) To take a lunch break."
+    ],
+    "correct_answer": "B) To adjust the camera angle for a low-angle shot to show power.",
+    "explanation": "Dans l'audio, le réalisateur dit : 'We need to make this character look stronger. Let's move the camera lower for a low-angle shot.' (Low-angle shot = contre-plongée, pour donner du pouvoir)."
+  },
+  "reading": [
+    {
+      "id": 1,
+      "category": "Art & Sociology",
+      "question": "Read the text:\n\n*\"The sociology of art studies how masterpieces are not just born from individual genius, but are deeply shaped by the artist's social environment, historical context, and financial patrons (mécènes).\"*\n\n**Question: According to the text, what helps shape a masterpiece besides the artist's genius?**",
+      "options": [
+        "A) Only the artist's natural talent.",
+        "B) The social environment, history, and financial support.",
+        "C) The price of the paint and brushes.",
+        "D) The opinions of modern art critics."
+      ],
+      "correct_answer": "B) The social environment, history, and financial support.",
+      "explanation": "Le texte mentionne expressément 'social environment, historical context, and financial patrons (mécènes)'."
+    },
+    {
+      "id": 2,
+      "category": "Cinema Grammar (TOEIC style)",
+      "question": "Fill in the blank:\n\n*\"The director __________ finished editing his new movie, but the official trailer is already available online.\"*\n\n*(Indice : Action passée avec un impact présent, classique du TOEIC)*",
+      "options": [
+        "A) is not",
+        "B) has not yet",
+        "C) did not",
+        "D) will not"
+      ],
+      "correct_answer": "B) has not yet",
+      "explanation": "On utilise 'present perfect' (has + participe passé) avec 'yet' pour exprimer une action qui n'a pas encore eu lieu."
+    }
+  ]
+}
